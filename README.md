@@ -2,6 +2,10 @@
 
 I'm Pit and i am a Data Scientist Chilean !
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitHurtado&theme=solarized-dark&layout=compact)
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
